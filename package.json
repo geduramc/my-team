@@ -8,8 +8,8 @@
     "api"
   ],
   "scripts": {
-    "app:dev": "npm run dev --workspaces=app",
-    "app:build": "npm run build --workspaces=app",
+    "app:dev": "npm run dev --workspace=app",
+    "app:build": "npm run build --workspace=app",
     "build": "npm build",
     "start": "npm start"
   },
