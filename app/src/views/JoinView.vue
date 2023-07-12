@@ -3,6 +3,6 @@
 
 <template>
   <main>
-    HomeView
+    JoinView
   </main>
 </template>
