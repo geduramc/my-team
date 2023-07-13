@@ -1,29 +1,4 @@
-# my-team
-
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+<h1 align="center">MyTeam</h1>
+<p align="center">The Ultimate Soccer Organizer<p>
+<p>Perfect app to effortlessly organize and coordinate soccer matches with your friends. Take the hassle out of planning by creating teams, setting up match details, and inviting your friends in a few simple taps. With MyTeam, get ready to experience the joy of playing soccer with your friends, hassle-free.<p>
+<p align="center" style="margin-top: 8rem;">By @geduramc &#9749;<p>
