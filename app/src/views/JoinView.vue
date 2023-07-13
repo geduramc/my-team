@@ -2,7 +2,5 @@
 </script>
 
 <template>
-  <main>
-    JoinView
-  </main>
+  JoinView
 </template>

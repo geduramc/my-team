@@ -2,7 +2,5 @@
 </script>
 
 <template>
-  <main>
-    MatchView
-  </main>
+  MatchView
 </template>
