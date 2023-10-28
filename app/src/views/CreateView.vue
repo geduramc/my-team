@@ -1,3 +1,8 @@
+<template>
+  Create Match
+  {{ test }}
+</template>
+
 <script>
   export default {
     setup(){
@@ -6,8 +11,3 @@
     }
   }
 </script>
-
-<template>
-  Create Match
-  {{ test }}
-</template>

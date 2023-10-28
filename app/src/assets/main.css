@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  --main-text-color: #dedcdc;
+}
+
 * {
   overflow: hidden;
 }

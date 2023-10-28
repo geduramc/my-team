@@ -1,6 +1,6 @@
-<script>
-</script>
-
 <template>
   JoinView
 </template>
+
+<script>
+</script>
