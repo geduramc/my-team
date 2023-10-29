@@ -1,8 +1,8 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import HomeView from '../views/HomeView.vue'
-import JoinView from '../views/JoinView.vue'
-import MatchView from '../views/MatchView.vue'
-import CreateView from '../views/CreateView.vue'
+import Home from '../components/Home.view.vue'
+import Join from '../components/Join.view.vue'
+import Match from '../components/Match.view.vue'
+import Create from '../components/Create.view.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -10,22 +10,22 @@ const router = createRouter({
     {
       path: '/',
       name: 'home',
-      component: HomeView
+      component: Home
     },
     {
       path: '/create',
       name: 'create',
-      component: CreateView
+      component: Create
     },
     {
       path: '/join',
       name: 'join',
-      component: JoinView
+      component: Join
     },
     {
       path: '/match',
       name: 'match',
-      component: MatchView
+      component: Match
     }
   ]
 })
